@@ -62,7 +62,7 @@ public class MysqlDemo {
         	  }
           }
         } catch (SQLException e) {
-            System.out.println("MySQL²Ù×÷´íÎó");
+            System.out.println("MySQL²Ù×÷´íÎó£¡");
             e.printStackTrace();
         } catch (Exception e) {
             e.printStackTrace();
